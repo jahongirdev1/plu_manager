@@ -23,6 +23,6 @@
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/plu_manager.git
+https://github.com/jahongirdev1/plu_manager
 cd plu_manager
 pip install -r requirements.txt
